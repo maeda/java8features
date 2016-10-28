@@ -6,7 +6,7 @@ import java.math.BigInteger;
 import java.util.stream.Stream;
 
 /**
- * Tail Recursion: https://leanpub.com/whatsnewinjava8/read#leanpub-auto-lambda-expressions
+ * Tail Recursion: https://leanpub.com/whatsnewinjava8/read#leanpub-auto-tail-call-optimization
  */
 public class TailCallTest {
 
