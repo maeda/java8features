@@ -1,9 +1,6 @@
-package java8._01_language.defaultmethod;
+package java8._01_language.defaultmethod.simple;
 
 import com.sun.tools.javac.util.List;
-import java8._01_language.defaultmethod.code.FormatData;
-import java8._01_language.defaultmethod.code.FormatDataNewLine;
-import java8._01_language.defaultmethod.code.FormatDataPipe;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -11,7 +8,7 @@ import java.util.Collections;
 
 import static org.junit.Assert.assertEquals;
 
-public class DefaultMethodTest {
+public class FormatDataTest {
 
     private List<String> list;
 

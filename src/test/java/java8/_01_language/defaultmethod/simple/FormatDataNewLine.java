@@ -1,4 +1,4 @@
-package java8._01_language.defaultmethod.code;
+package java8._01_language.defaultmethod.simple;
 
 import java.util.List;
 import java.util.Optional;
